@@ -48,10 +48,16 @@ body{
     box-shadow: 0 9px 15px -7px grey;
 }
 .button-style{
+    background-color: #A50044; 
     width: 100px;
     margin-right: 30px; 
     margin-bottom: 10px;
 }
+
+.button-style:hover{
+    background-color: #004D98;
+}
+
 .col-style{
     margin-top: 2%;
 }
@@ -69,3 +75,4 @@ body{
     margin-left: 10px;
     margin-bottom: 20px;
 }
+
